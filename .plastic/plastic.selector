@@ -1,4 +1,0 @@
-repository "Rough Awakening/Rough Awakening Repo@3574117962698@cloud"
-  path "/"
-    br "/main"
-    co "/main"
