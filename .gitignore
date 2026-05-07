@@ -1,0 +1,47 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity asset metadata (only if not using Asset Database V2)
+# *.meta  ← DO NOT ignore these! Unity needs them.
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash reports
+sysinfo.txt
+crashlytics-build.properties
+
+# Asset Store cache
+[Aa]ssets/[Aa]sset[Ss]tore*/
+
+# JetBrains Rider
+.idea/
+
+# Builds output
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# IL2CPP generated
+Il2CppOutputProject/
+.DS_Store
